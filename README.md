@@ -13,7 +13,6 @@ computadora.
 1.5. Representación y trazo de líneas y polígonos.
 
   1.5.1 Formatos de imagen.
-(En este apartado vas a colocar las prácticas de dibujo de un polígono y la flor de la vida, como ejercicio práctico)
 
 1.6. Procesamiento de mapas de bits.  
 
@@ -124,7 +123,7 @@ Por esta razón, la graficación utiliza áreas como:
 <br> -Trigonometría (ángulos y rotaciones) </br>
 <br> -Cálculo numérico (aproximaciones y suavizado)</br>
 
-<br> Sistemas de coordenadas </br>
+<br> **Sistemas de coordenadas** </br>
 
 Los sistemas de coordenadas son la base para ubicar cualquier elemento dentro de un espacio gráfico.
 Permiten asignar una posición exacta a cada objeto, de modo que la computadora sepa dónde colocarlo.
@@ -331,6 +330,104 @@ https://github.com/24680190-ren/24680190_EjercicioGraficaci-n
 
   ## 1.5.1 Formatos de imagen.
 
+ **Formatos de imagen digital**
+
+Existen distintos formatos de archivo para almacenar imágenes digitales. Cada uno fue diseñado con objetivos específicos, como reducir tamaño, conservar calidad, permitir transparencias o facilitar la impresión. Por ello, elegir el formato adecuado depende del tipo de trabajo que se desee realizar, ya sea fotografía, diseño web, animación o impresión profesional.
+
+<img width="274" height="106" alt="image" src="https://github.com/user-attachments/assets/b602201f-fd56-4fd6-a4f7-e048bfa96e27" />
+
+
+**JPEG (Joint Photographic Experts Group)**
+
+Este es el formato más popular y ampliamente utilizado para fotografías digitales. Está optimizado para manejar una gran variedad de colores y degradados suaves, lo que lo hace ideal para imágenes reales capturadas con cámaras.
+
+Su principal ventaja es la compresión, que permite disminuir considerablemente el tamaño del archivo sin que la pérdida de calidad sea demasiado perceptible a simple vista. Gracias a esto, es muy práctico para almacenar muchas fotos o compartirlas en internet.
+
+<br>Sin embargo, no es la mejor opción para ilustraciones, logotipos o gráficos con bordes definidos, ya que la compresión puede generar distorsiones o pequeños defectos visibles alrededor de las líneas. </br>
+
+<img width="245" height="239" alt="image" src="https://github.com/user-attachments/assets/cb9aa365-f76e-4b0a-ba4e-96d8f8a23b07" />
+
+**GIF (Graphics Interchange Format)**
+
+El formato GIF está pensado para imágenes simples con pocos colores. No maneja una gran gama cromática, pero ofrece características especiales que lo hacen muy útil en ciertos casos.
+
+Permite transparencias básicas y, sobre todo, soporta animaciones mediante la reproducción de varios cuadros en secuencia. Por esta razón, se utiliza frecuentemente para pequeños gráficos animados, íconos o banners.
+
+Debido a su limitación de colores, no es adecuado para fotografías o imágenes que requieran gran detalle, pero funciona muy bien para dibujos, caricaturas o gráficos sencillos.
+
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/203ef6e7-149c-4618-b30a-d82232a668d8" />
+
+
+**PNG (Portable Network Graphics)**
+
+El formato PNG se creó como una alternativa moderna que combina buena calidad de imagen con tamaños de archivo moderados. A diferencia del JPEG, no pierde información al comprimirse, por lo que conserva mejor los detalles.
+
+Permite transparencias avanzadas, lo que facilita eliminar fondos o integrar imágenes sobre distintos diseños. Esto lo convierte en uno de los formatos más utilizados en páginas web, interfaces gráficas, logotipos e ilustraciones digitales.
+
+Es especialmente recomendable cuando se necesita mantener la calidad visual sin aumentar demasiado el peso del archivo.
+
+<img width="273" height="212" alt="image" src="https://github.com/user-attachments/assets/64cf41b6-a66a-4ecb-a958-09e15dd06039" />
+
+
+**BMP (Bitmap)**
+
+El formato BMP almacena la imagen como un mapa de bits puro, es decir, registra directamente el color de cada píxel sin aplicar compresión. Esto garantiza que la calidad se conserve intacta.
+
+Debido a que no reduce información, es útil cuando se planea editar la imagen posteriormente o cuando se requiere máxima fidelidad en los datos.
+
+Su principal desventaja es que los archivos ocupan mucho espacio de almacenamiento, por lo que no resulta práctico para compartir o usar en internet.
+
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/811beda4-526c-4e0c-af28-4d01e4b87681" />
+
+**TIFF (Tagged Image File Format)**
+
+El formato TIFF está orientado a trabajos profesionales que demandan la más alta calidad posible. Soporta una gran profundidad de color, lo que permite almacenar más información y obtener imágenes muy detalladas.
+
+Es muy utilizado en diseño gráfico, escaneo e impresión, ya que conserva la fidelidad del color y ofrece excelentes resultados en medios físicos.
+
+El inconveniente es que genera archivos de gran tamaño, similares o incluso mayores que los BMP, lo que puede dificultar su almacenamiento o transferencia.
+
+<img width="301" height="312" alt="image" src="https://github.com/user-attachments/assets/ab05cc25-13aa-4f3c-878d-19da4ebe7f96" />
+
+# 1.6. Procesamiento de mapas de bits.  
+
+**Definición de mapa de bits**
+
+En imagen digital, un mapa de bits es una forma de representar gráficamente una imagen mediante una estructura compuesta por muchos puntos pequeños llamados píxeles. Cada uno de estos píxeles almacena información específica de color, y la combinación de todos ellos permite formar la imagen completa que vemos en la pantalla.
+
+El tamaño de un mapa de bits depende directamente de la cantidad de píxeles que lo componen, tanto horizontal como verticalmente. Es decir, una imagen no se define por centímetros o pulgadas, sino por dimensiones como 1920 × 1080 o 800 × 600 píxeles. Cuantos más píxeles tenga, mayor será el nivel de detalle y nitidez.
+
+En términos sencillos, un mapa de bits puede imaginarse como una cuadrícula o tabla rectangular donde cada celda contiene un color. Al observar cada punto por separado no se distingue mucho, pero al verlos todos juntos se forma la imagen completa. Es similar a un mosaico o a una fotografía ampliada donde se pueden notar los cuadritos individuales.
+
+<img width="966" height="383" alt="image" src="https://github.com/user-attachments/assets/0aca17fa-85c3-42bc-a5c2-b8468d828442" />
+
+**Características del mapa de bits**
+
++ Está formado por una cuadrícula de píxeles organizados en filas y columnas.
++ Cada píxel almacena un valor numérico que representa un color específico.
++ La calidad de la imagen depende directamente de la resolución (cantidad total de píxeles).
++ A mayor número de píxeles, mayor nitidez y nivel de detalle.
++ Si la imagen se amplía demasiado, se pixela o pierde definición, ya que los puntos se vuelven visibles.
++ Es ideal para fotografías e imágenes con muchos colores y degradados.
++ Suele generar archivos de mayor tamaño cuando la resolución es alta.
++ Permite editar directamente cada píxel, modificando colores con gran precisión.
++ Permite editar directamente cada píxel, modificando colores con gran precisión.
+
+**Importancia en diseño gráfico**
+
+El mapa de bits es fundamental en la edición de imágenes digitales, ya que la mayoría de fotografías, texturas y gráficos realistas se almacenan de esta manera. Comprender su funcionamiento permite manejar mejor conceptos como resolución, tamaño de archivo, calidad y escalado.
+
+En resumen, un mapa de bits representa imágenes mediante la suma de miles de puntos de color, y es una de las formas más comunes de almacenamiento y visualización en computación gráfica.
+
+# Conclusión
+
+A lo largo de esta unidad se comprendió que la graficación por computadora es una disciplina que combina matemáticas, programación y diseño visual para crear y manipular imágenes digitales. Se analizó cómo cada elemento gráfico no es simplemente un dibujo, sino una representación numérica formada por coordenadas, vectores, líneas, polígonos y transformaciones geométricas que permiten posicionar, mover y modificar objetos dentro de un espacio bidimensional o tridimensional.
+
+También se estudió que los sistemas de coordenadas y el plano cartesiano digital permiten ubicar con precisión cada píxel o vértice, mientras que los vectores y las transformaciones hacen posible generar movimiento, rotación y cambios de tamaño, aportando dinamismo a las escenas. Asimismo, se revisó cómo los modelos de color organizan matemáticamente la información cromática para que pueda visualizarse correctamente en distintos dispositivos, y cómo los formatos de imagen determinan la calidad, el peso y el uso adecuado de los archivos digitales.
+
+Finalmente, mediante herramientas de modelado como Blender se reforzó la parte práctica, comprobando que cualquier objeto complejo está construido a partir de estructuras simples como vértices, aristas y caras. Esto demuestra que toda representación gráfica parte de fundamentos geométricos básicos.
+
+En conjunto, esta unidad proporciona las bases teóricas y técnicas necesarias para entender cómo se generan las imágenes digitales y sienta los conocimientos esenciales para avanzar hacia temas más complejos como animación, modelado 3D, renderizado e interacción gráfica.
 
 # Bibliografias 
 1. https://grafidepc.blogspot.com/p/blog-page.html
@@ -350,4 +447,6 @@ https://github.com/24680190-ren/24680190_EjercicioGraficaci-n
 15. https://www.shutterstock.com/es/image-vector/hsb-hsv-hsl-alternative-representations-rgb-2175452279?dd_referrer=https%3A%2F%2Fwww.google.com%2F
 16. https://www-hslpicker-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc
 17. https://iluminacionnatural.artesolar.com/colorimetria-iii-espacio-de-color-rgb-hsv-y-hsl/
-18. 
+18. https://www.clickprinting.es/blog/los-tipos-de-formatos-de-im-genes-y-sus-funciones
+19. https://es.slideshare.net/slideshow/1-6-procesamiento-de-mapas-de-bits-en-graficacion/282295902#3
+20. https://www.crehana.com/blog/estilo-vida/que-es-mapa-bits/
