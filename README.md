@@ -413,6 +413,9 @@ En términos sencillos, un mapa de bits puede imaginarse como una cuadrícula o 
 + Permite editar directamente cada píxel, modificando colores con gran precisión.
 + Permite editar directamente cada píxel, modificando colores con gran precisión.
 
+  <img width="800" height="540" alt="image" src="https://github.com/user-attachments/assets/a28bc6c8-576e-4680-8a0b-fefa02b824cb" />
+
+
 **Importancia en diseño gráfico**
 
 El mapa de bits es fundamental en la edición de imágenes digitales, ya que la mayoría de fotografías, texturas y gráficos realistas se almacenan de esta manera. Comprender su funcionamiento permite manejar mejor conceptos como resolución, tamaño de archivo, calidad y escalado.
