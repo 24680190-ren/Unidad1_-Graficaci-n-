@@ -328,6 +328,8 @@ Las herramientas de edición permiten agregar nueva geometría. Extrude crea nue
 La aplicación de estos conocimientos se llevo acabo en una practica en la que creamos un hexagono en blender, en el siguinte link se encuentra la expliccaión : 
 https://github.com/24680190-ren/24680190_EjercicioGraficaci-n
 
+<br> Otra practica que se realizo fue la flor de vida, explicada a detalle en el siguiente link: https://github.com/24680190-ren/Flor-de-vida- </br>
+
   ## 1.5.1 Formatos de imagen.
 
  **Formatos de imagen digital**
