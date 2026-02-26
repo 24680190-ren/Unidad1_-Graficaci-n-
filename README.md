@@ -435,23 +435,22 @@ Finalmente, mediante herramientas de modelado como Blender se reforzó la parte 
 En conjunto, esta unidad proporciona las bases teóricas y técnicas necesarias para entender cómo se generan las imágenes digitales y sienta los conocimientos esenciales para avanzar hacia temas más complejos como animación, modelado 3D, renderizado e interacción gráfica.
 
 # Bibliografias 
-1. https://grafidepc.blogspot.com/p/blog-page.html
-2. https://www.sutori.com/es/historia/historia-y-evolucion-de-la-graficacion-por-computadora--HWxiLPJRpHqkjwYoadxpmheZ
-3. https://es.slideshare.net/slideshow/1-1-historia-y-evolucion-de-la-graficacion-por-computadora-pdf/282295680
-4. https://es.slideshare.net/slideshow/1-2-areas-de-aplicacion-de-la-graficacion-por-computadora-pdf/282295469
-5. https://es.scribd.com/document/595159409/Informe-1-2-Areas-de-aplicacion-de-la-graficacion
-6. https://byjus.com/maths/two-dimensional-coordinate-geometry/
-7. https://engineeringstatics.org/cartesian-coords-2d.html
-8. https://medium.com/@sutar.trupti23/coordinate-geometry-in-programming-the-building-block-of-graphics-and-simulations-a1141a036aca
-9. https://www.mr-beam.org/es/blogs/news/que-es-un-grafico-vectorial?srsltid=AfmBOorD349G9rrEpIpjhAysayWFk87nnqq7cOIqDVXeemZ15ewN-Rzf
-10. https://view.genially.com/64164b88abcad40018c55d4b/interactive-content-software-para-diseno-grafico-de-vectores
-11. https://flexbooks.ck12.org/cbook/ck-12-conceptos-de-matem%C3%A1ticas-de-la-escuela-secundaria-grado-8-en-espa%C3%B1ol/section/6.14/primary/lesson/reconocer-transformaciones-de-traslaci%C3%B3n/
-12. https://www.bartolomecossio.com/MATEMATICAS/movimiento_en_el_plano_traslacin_rotacin_y_simetra.html
-13. https://es.slideshare.net/slideshow/traslacion-del-plano-cartesiano-41631955/41631955
-14. https://ahenav.wordpress.com/2014/04/09/modelos-de-color/
-15. https://www.shutterstock.com/es/image-vector/hsb-hsv-hsl-alternative-representations-rgb-2175452279?dd_referrer=https%3A%2F%2Fwww.google.com%2F
-16. https://www-hslpicker-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc
-17. https://iluminacionnatural.artesolar.com/colorimetria-iii-espacio-de-color-rgb-hsv-y-hsl/
-18. https://www.clickprinting.es/blog/los-tipos-de-formatos-de-im-genes-y-sus-funciones
-19. https://es.slideshare.net/slideshow/1-6-procesamiento-de-mapas-de-bits-en-graficacion/282295902#3
-20. https://www.crehana.com/blog/estilo-vida/que-es-mapa-bits/
+1.  Antecedentes y evolución de la graficación por computadora. (s. f.). https://grafidepc.blogspot.com/p/blog-page.html 
+2. Sutori. (s. f.). Sutori. https://www.sutori.com/es/historia/historia-y-evolucion-de-la-graficacion-por-computadora--HWxiLPJRpHqkjwYoadxpmheZ
+3. Client challenge. (s. f.). https://es.slideshare.net/slideshow/1-1-historia-y-evolucion-de-la-graficacion-por-computadora-pdf/282295680
+4. Client challenge. (s. f.-b). https://es.slideshare.net/slideshow/1-2-areas-de-aplicacion-de-la-graficacion-por-computadora-pdf/282295469
+5. Client challenge. (s. f.-c). https://es.scribd.com/document/595159409/Informe-1-2-Areas-de-aplicacion-de-la-graficacion
+6. Admin. (2023, 17 enero). Coordinate Geometry in Two Dimensional Plane. BYJUS. https://byjus.com/maths/two-dimensional-coordinate-geometry/
+7. Statics: 2D coordinate systems & vectors. (s. f.). https://engineeringstatics.org/cartesian-coords-2d.html
+8. Bhalerao, T. (2024, septiembre 25). Coordinate geometry in Programming: The Building Block of Graphics and simulations. Medium. https://medium.com/@sutar.trupti23/coordinate-geometry-in-programming-the-building-block-of-graphics-and-simulations-a1141a036aca
+9. Lasers, B. (2023, 17 febrero). ¿Qué es un gráfico vectorial? Mr Beam explica. Mr Beam Lasers. https://www.mr-beam.org/es/blogs/news/que-es-un-grafico-vectorial?srsltid=AfmBOorD349G9rrEpIpjhAysayWFk87nnqq7cOIqDVXeemZ15ewN-Rzf
+10. SOFTWARE PARA DISEÑO GRAFICO DE VECTORES | Genially. (2023, 19 marzo). Genially. https://view.genially.com/64164b88abcad40018c55d4b/interactive-content-software-para-diseno-grafico-de-vectores
+11. CK-12 Foundation. (s. f.). CK-12 Foundation. https://flexbooks.ck12.org/cbook/ck-12-conceptos-de-matem%C3%A1ticas-de-la-escuela-secundaria-grado-8-en-espa%C3%B1ol/section/6.14/primary/lesson/reconocer-transformaciones-de-traslaci%C3%B3n/
+12. García, M. L. (s. f.). Movimiento en el plano: traslación, rotación y simetría | Matemáticas. https://www.bartolomecossio.com/MATEMATICAS/movimiento_en_el_plano_traslacin_rotacin_y_simetra.html
+13. Client challenge. (s. f.-d). https://es.slideshare.net/slideshow/traslacion-del-plano-cartesiano-41631955/41631955
+14. Antonio. (2016, 19 junio). Modelos de color (RGB, CMYK, HSV/HSL). Antonio Herrera. https://ahenav.wordpress.com/2014/04/09/modelos-de-color/
+15. HSL Color Picker. (s. f.). HSL Color Picker. https://www-hslpicker-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc
+16. David. (2024, 12 enero). Colorimetría III: espacio de color RGB, HSV y HSL. Iluminación Profesional y Proyectos | Artesolar. https://iluminacionnatural.artesolar.com/colorimetria-iii-espacio-de-color-rgb-hsv-y-hsl/
+17.No title. (s/f). Clickprinting.es. Recuperado el 26 de febrero de 2026, de https://www.clickprinting.es/blog/los-tipos-de-formatos-de-im-genes-y-sus-funciones
+18. Client challenge. (s. f.-e). https://es.slideshare.net/slideshow/1-6-procesamiento-de-mapas-de-bits-en-graficacion/282295902#3
+19.Machuca, F. (2022, 1 abril). Aprende qué es un mapa de bits y haz que tus trabajos resalten por su calidad. https://www.crehana.com. https://www.crehana.com/blog/estilo-vida/que-es-mapa-bits/
