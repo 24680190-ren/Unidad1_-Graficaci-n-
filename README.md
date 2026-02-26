@@ -451,6 +451,6 @@ En conjunto, esta unidad proporciona las bases teóricas y técnicas necesarias 
 14. Antonio. (2016, 19 junio). Modelos de color (RGB, CMYK, HSV/HSL). Antonio Herrera. https://ahenav.wordpress.com/2014/04/09/modelos-de-color/
 15. HSL Color Picker. (s. f.). HSL Color Picker. https://www-hslpicker-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc
 16. David. (2024, 12 enero). Colorimetría III: espacio de color RGB, HSV y HSL. Iluminación Profesional y Proyectos | Artesolar. https://iluminacionnatural.artesolar.com/colorimetria-iii-espacio-de-color-rgb-hsv-y-hsl/
-17.No title. (s/f). Clickprinting.es. Recuperado el 26 de febrero de 2026, de https://www.clickprinting.es/blog/los-tipos-de-formatos-de-im-genes-y-sus-funciones
+17. No title. (s/f). Clickprinting.es. Recuperado el 26 de febrero de 2026, de https://www.clickprinting.es/blog/los-tipos-de-formatos-de-im-genes-y-sus-funciones
 18. Client challenge. (s. f.-e). https://es.slideshare.net/slideshow/1-6-procesamiento-de-mapas-de-bits-en-graficacion/282295902#3
-19.Machuca, F. (2022, 1 abril). Aprende qué es un mapa de bits y haz que tus trabajos resalten por su calidad. https://www.crehana.com. https://www.crehana.com/blog/estilo-vida/que-es-mapa-bits/
+19. Machuca, F. (2022, 1 abril). Aprende qué es un mapa de bits y haz que tus trabajos resalten por su calidad. https://www.crehana.com. https://www.crehana.com/blog/estilo-vida/que-es-mapa-bits/
